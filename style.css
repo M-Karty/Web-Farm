@@ -1,0 +1,35 @@
+body {
+    font-family: Segoe UI, Segoe UI Midlevel, Segoe WP, Arial, sans-serif;
+    background-color: #0f0f0f;
+    color: rgb(255, 255, 255);
+}
+
+#upgradeCost {
+    margin-bottom: 10px;}
+
+#wheatPic{
+    background-image: url('wheat.png');
+    width: 50px;
+    height: 50px;
+    filter: invert();
+    border: 0px transparent;
+    background-size:cover;}
+
+#wheatbtn:hover {
+    background-color: rgb(184, 184, 184);}
+
+#counter, #wLevel {
+    display: inline-block;}
+
+#counter {
+    margin-left: 3px;}
+
+
+
+table {
+    border: 1px solid rgb(27, 27, 27);}
+
+#wheatTitle {
+    text-align: left;
+    text-decoration: overline;}
+    
